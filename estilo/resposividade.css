@@ -7,6 +7,13 @@
         margin-top: 5px;
         width: 300px;
     }
+    .contatos{
+        flex-direction: column;
+        justify-content: center;
+    }
+    .contatos-redes{
+        margin-top: 3px;
+    }
 }
 @media screen and (min-width:1000px){
     .descricao{
